@@ -2,9 +2,9 @@
 
 FILE STRUCTURE
 - index.html - entire content
--css/styles.css - css styling
--js/scripts.js - js code
--image folder has all images
+- css/styles.css - css styling
+- js/scripts.js - js code
+- image folder has all images
 
 FRAMEWORKS AND CREDITS
 - Bootstrap https://getbootstrap.com/
